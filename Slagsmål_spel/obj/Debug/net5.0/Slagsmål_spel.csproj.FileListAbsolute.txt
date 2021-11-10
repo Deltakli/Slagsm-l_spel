@@ -1,0 +1,16 @@
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\bin\Debug\net5.0\Slagsmål_spel.exe
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\bin\Debug\net5.0\Slagsmål_spel.deps.json
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\bin\Debug\net5.0\Slagsmål_spel.runtimeconfig.json
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\bin\Debug\net5.0\Slagsmål_spel.runtimeconfig.dev.json
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\bin\Debug\net5.0\Slagsmål_spel.dll
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\bin\Debug\net5.0\ref\Slagsmål_spel.dll
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\bin\Debug\net5.0\Slagsmål_spel.pdb
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\obj\Debug\net5.0\Slagsmål_spel.csproj.AssemblyReference.cache
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\obj\Debug\net5.0\Slagsmål_spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\obj\Debug\net5.0\Slagsmål_spel.AssemblyInfoInputs.cache
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\obj\Debug\net5.0\Slagsmål_spel.AssemblyInfo.cs
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\obj\Debug\net5.0\Slagsmål_spel.csproj.CoreCompileInputs.cache
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\obj\Debug\net5.0\Slagsmål_spel.dll
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\obj\Debug\net5.0\ref\Slagsmål_spel.dll
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\obj\Debug\net5.0\Slagsmål_spel.pdb
+C:\Users\arosenius.carlander\Documents\Slagsmålspel_Carl-Anders_TE20A\Slagsmål_spel\Slagsmål_spel\obj\Debug\net5.0\Slagsmål_spel.genruntimeconfig.cache
