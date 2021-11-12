@@ -39,7 +39,7 @@ Console.WriteLine("\n----- ===== Battle is over! ===== -----");
 
 if (heroHp == 0 && enemieHp == 0)
 {
-  Console.WriteLine("OAVGJORT");
+  Console.WriteLine("A TIE!");
 }
 else if (heroHp == 0)
 {
